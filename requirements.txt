@@ -5,5 +5,5 @@ Pillow
 PyPDF2
 streamlit
 pdf2image
-poppler
+python-poppler
 
