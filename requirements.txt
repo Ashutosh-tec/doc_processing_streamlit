@@ -1,4 +1,3 @@
-fitz
 PyMuPDF
 numpy
 Pillow
