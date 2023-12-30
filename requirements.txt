@@ -4,6 +4,6 @@ Pillow
 PyPDF2
 streamlit
 pdf2image
-opencv-python==4.8.1
+opencv-python-headless
 
 
